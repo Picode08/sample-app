@@ -1,0 +1,15 @@
+current directory: /Users/suganochikako/人工インターン/test/sample_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/suganochikako/.rbenv/versions/2.6.3/bin/ruby -I /Users/suganochikako/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20210218-90997-15tsfcv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/suganochikako/人工インターン/test/sample_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/suganochikako/人工インターン/test/sample_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/suganochikako/人工インターン/test/sample_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210218-90997-kl7q88/skiptrace/internal
